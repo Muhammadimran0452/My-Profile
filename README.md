@@ -7,8 +7,6 @@ i have Studied Software development in highschool, which helped me with coding a
 <h2>Ideal Job</h2>
 After obtaining my degree in I.T, my aim is to work as a software developer and eventually start my own I.T business. 
 
-<img src="https://user-images.githubusercontent.com/80655545/112659807-dc80a380-8ea8-11eb-9737-58913c66a214.png" alt="Software Developer" width="450" height="350">
-
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/80655545/112659807-dc80a380-8ea8-11eb-9737-58913c66a214.png">
 </p>
@@ -16,5 +14,6 @@ After obtaining my degree in I.T, my aim is to work as a software developer and 
 <h3> My Profile </h3>
 According to the test Results, my personality is a protagonist. i believe as a part of the team i would try socialise and get to know everyone before initiating a project idea. Based on my personality i am really easy to get along with and work with as i am socially confident and able to control myself when needed to. Usually in a group project if an idea seems legitmate i would not question it otherwise i would look deeper into it to find a meaning or how to resolve it. Usually i would think about something being right or wrong but most of the time when i know "or i feel" usually works out.
 
-<img src="https://user-images.githubusercontent.com/80655545/112663015-7138d080-8eac-11eb-8d82-905a0b44518e.png" alt="Screenshot 1" width="400" height="350">
-
+<p align="right">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/80655545/112663015-7138d080-8eac-11eb-8d82-905a0b44518e.png">
+</p>
