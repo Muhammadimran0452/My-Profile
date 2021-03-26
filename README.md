@@ -8,7 +8,7 @@ i have Studied Software development in highschool, which helped me with coding a
 After obtaining my degree in I.T, my aim is to work as a software developer and eventually start my own I.T business. In the business my aim is to hire multiple software developers and create programs demanded by the market at a profitable price. As the business grows it will start hiring internationally and providing as the market demands.
 
 <p align="center">
-  <img width="350" height="300" src="https://user-images.githubusercontent.com/80655545/112659807-dc80a380-8ea8-11eb-9737-58913c66a214.png">
+  <img width="300" height="200" src="https://user-images.githubusercontent.com/80655545/112659807-dc80a380-8ea8-11eb-9737-58913c66a214.png">
 </p>
 
 <h2.5> My Profile </h2.5>
