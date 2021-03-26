@@ -4,7 +4,7 @@ My name is Muhammad imran, i usually go by either Muhammad or Moey. This is my f
 
 <h1> Interests in I.T </h1>
 i have Studied Software development in highschool, which helped me with coding alot as my main interest in I.T is making programs which run efficiently and effectively. I have worked on different projects, some were group and some were indivdual which mainly involved coding using C#. i have been learning and using it to code for almost 2 and a 1/2 years. So, my main interest in I.T is really simlpe and straight forward, as it is mainly coding or web designing. 
-
+ 
 <h2> Ideal Job</h2>
 After obtaining my degree in I.T, my aim is to work as a software developer and eventually start my own I.T business. In the business my aim is to hire multiple software developers and create programs demanded by the market at a profitable price. As the business grows it will start hiring internationally and providing as the market demands.
 
