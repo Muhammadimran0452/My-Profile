@@ -12,9 +12,11 @@ After obtaining my degree in I.T, my aim is to work as a software developer and 
 </p>
 
 <h2> My Profile </h2>
+
+According to the test Results, my personality is a protagonist. i believe as a part of the team i would try socialise and get to know everyone before initiating a project idea. Based on my personality i am really easy to get along with and work with as i am socially confident and able to control myself when needed to. Usually in a group project if an idea seems legitmate i would not question it otherwise i would look deeper into it to find a meaning or how to resolve it. Atmost, i would think about something being right or wrong but most of the time when i know "or i feel" usually works out.
 <p align="right"> 
-<img width="400" height="380" src="https://user-images.githubusercontent.com/80655545/112663015-7138d080-8eac-11eb-8d82-905a0b44518e.png"> According to the test Results, my personality is a protagonist. i believe as a part of the team i would try socialise and get to know everyone before initiating a project idea. Based on my personality i am really easy to get along with and work with as i am socially confident and able to control myself when needed to. Usually in a group project if an idea seems legitmate i would not question it otherwise i would look deeper into it to find a meaning or how to resolve it. Atmost, i would think about something being right or wrong but most of the time when i know "or i feel" usually works out.
-</p>
+<img width="400" height="380" src="https://user-images.githubusercontent.com/80655545/112663015-7138d080-8eac-11eb-8d82-905a0b44518e.png"> 
+</p 
 
 <h3> Project Idea </h3>
 My main Project idea is to make a online (E-commmerce) store program which can be used to sell products and customers can buy them. At the moment the online shopping demand is really high and this program will succeed in a matter of time. The way the app is going to work is there is going to be 2 logins. One, which is a customer login where all the goods are up for sale and a worker login where a worker can manually process order if they are not processed automatically. All private information will be encrypted to match the legal requirements. The app will mainly sell the products which the developer wishes to sale. In future updates all information on the app will be backed up on a cloud server and in future updates customers will be able to sale products locally or internationally. 
