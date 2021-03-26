@@ -1,3 +1,4 @@
+
 <h1> Introduction </h1>
 My name is Muhammad imran, i usually go by either Muhammad or Moey. This is my first Year at RMIT - i am currently studying Bachelors of Information Technology. Since high school, I have been interested in studying I.T just like many of us i was interested in working on projects and making Programs, which is the main reason why i am at RMIT. I have a little experience with website development and a fair bit knowledge in coding. As mentioned earlier i have made several Apps in C#, which helped  master the language and now i can comfortably program in C#. Overall, my goal is to compelete my degree and start working. 
 
@@ -19,7 +20,11 @@ According to the test Results, my personality is a protagonist. i believe as a p
 </p 
 
 <h3> Project Idea </h3>
+<p align="left"> 
+<img width="400" height="380" src="![Ecommerce](https://user-images.githubusercontent.com/80655545/112668014-0e4a3800-8eb2-11eb-991d-e35f81901ac0.png)"> 
+</p 
 My main Project idea is to make a online (E-commmerce) store program which can be used to sell products and customers can buy them. At the moment the online shopping demand is really high and this program will succeed in a matter of time. The way the app is going to work is there is going to be 2 logins. One, which is a customer login where all the goods are up for sale and a worker login where a worker can manually process order if they are not processed automatically. All private information will be encrypted to match the legal requirements. The app will mainly sell the products which the developer wishes to sale. In future updates all information on the app will be backed up on a cloud server and in future updates customers will be able to sale products locally or internationally. 
 
 
 
+![Ecommerce](https://user-images.githubusercontent.com/80655545/112667957-02f70c80-8eb2-11eb-86dd-2dd5bc843177.png)
